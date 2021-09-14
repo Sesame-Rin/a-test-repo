@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, changes happen!!!");
+    printf("Sekai!!, World!");
     return 0;
 }
